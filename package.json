@@ -1,0 +1,16 @@
+{
+  "name": "myfirstnode",
+  "version": "1.0.0",
+  "description": "my first node",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \"Error: no test specified\" && exit 1",
+	"start": "node index.js"
+  },
+  "author": "Kirsty Douglas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kirstydouglas39/enterpriseWebSystemsLab4/issues"
+  },
+  "homepage": "https://github.com/kirstydouglas39/enterpriseWebSystemsLab4#readme"
+}
