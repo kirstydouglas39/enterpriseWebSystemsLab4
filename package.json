@@ -8,6 +8,9 @@
 	"start": "node index.js"
   },
   "author": "Kirsty Douglas",
+  "dependencies": {
+	"express": "~4.13.4"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/kirstydouglas39/enterpriseWebSystemsLab4/issues"
